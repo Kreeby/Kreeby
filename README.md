@@ -27,6 +27,6 @@
 - GitHub: [@Kreeby](https://github.com/Kreeby)
 
 ### Languages I Speak
-- English 🇺🇸🇬🇧
-- Azerbaijani 🇦🇿
-- Russian 🇷🇺
+- ![English]()
+- ![Azerbaijani]()
+- ![Russian](https://icons8.com/icon/ah_kk9K8SSdv/russian-federation)
