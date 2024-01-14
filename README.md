@@ -25,3 +25,8 @@
 - Email: [rashad.naghiyev@gmail.com](mailto:rashad.naghiyev@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/rashad-naghiyev/)
 - GitHub: [@Kreeby](https://github.com/Kreeby)
+
+### Languages I Speak
+- English 🇺🇸🇬🇧
+- Azerbaijani 🇦🇿
+- Russian 🇷🇺
