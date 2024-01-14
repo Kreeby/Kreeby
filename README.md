@@ -28,5 +28,5 @@
 
 ### Languages I Speak
 - ![English]()
-- ![Azerbaijani]()
+- ![Azerbaijani](![image](https://github.com/Kreeby/Kreeby/assets/31008105/b9e6a976-d909-4a52-a755-b226a6bbcac1))
 - ![Russian](https://icons8.com/icon/ah_kk9K8SSdv/russian-federation)
