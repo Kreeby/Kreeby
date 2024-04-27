@@ -23,5 +23,5 @@
 
 📫 **How to reach me:**
 - Email: [rashad.naghiyev@gmail.com](mailto:rashad.naghiyev@gmail.com)
-- LinkedIn: [URL](https://www.linkedin.com/in/rashad-naghiyev/)
+- [LinkedIn](https://www.linkedin.com/in/rashad-naghiyev/)
 - GitHub: [@Kreeby](https://github.com/Kreeby)
