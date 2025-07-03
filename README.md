@@ -1,27 +1,33 @@
-### Hi there, I'm Rashad Naghiyev! 👋
+# 👋 Hi there, I'm Rashad Naghiyev
 
-🔧 **Skills & Expertise:**
-- Senior Software Engineer and Team Lead with over 6 years of experience.
-- Proficient in Java, PostgreSQL, MySQL, MongoDB, Spring Framework, and CI/CD tools like Jenkins, GitLab, and GitHub Actions.
-- Expertise in Microservices, Serverless Architecture, and various design patterns like CQRS and DDD.
+🚀 **Staff Software Engineer | Sr. Engineering Manager | Regional Tech Lead**  
+I help teams design, build, and scale enterprise software systems across fintech, mobility, and digital commerce domains. I currently lead engineering for **BP Germany's digital product ecosystem** from Budapest.
 
-🌱 **Career Highlights:**
-- Currently leading a backend team at Grid Dynamics, focusing on developing new functionalities and improving existing systems.
-- Played a key role in enhancing performance and reducing production bugs by 50% through effective architecture and problem-solving strategies.
-- Experienced in mentoring, knowledge sharing, and managing technical teams.
+---
 
-🎓 **Education:**
-- Bachelor of Science in Computer Science from ADA University (2016-2020).
+## 🧠 What I Do
+- Architect scalable, secure backend platforms in **Java**, **Spring Boot**, **gRPC**, and **Kafka**.
+- Lead and mentor engineers — from interns to senior developers — with a focus on quality and autonomy.
+- Drive product delivery and tech strategy across complex organizations, including clients like **Visa**, **Apple**, **Citibank**, and **American Eagle**.
 
-📈 **I'm passionate about:**
-- Developing high-quality, scalable backend solutions.
-- Continuously learning and adopting new technologies in the ever-evolving world of software engineering.
-- Collaborating on open-source projects and contributing to the software development community.
+---
 
-👀 **Looking Forward:**
-- I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to reach out!
+## 🏆 Highlights
+- 🛡️ Built secure, performance-critical services for Visa and Apple.
+- 🧬 Designed health data pipelines for Sema4 in predictive genomics.
+- 🧠 Architected Loyalty & Returns systems for American Eagle Outfitters.
+- 🛠️ Introduced company-wide internship and mentoring framework (200+ engineers impacted).
+- 🥇 Named **Engineer of the Year 2023** at Grid Dynamics.
 
-📫 **How to reach me:**
-- Email: [rashad.naghiyev@gmail.com](mailto:rashad.naghiyev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/rashad-naghiyev/)
-- GitHub: [@Kreeby](https://github.com/Kreeby)
+---
+
+## 🛠 Tech Toolbox
+`Java` `Spring Boot` `PostgreSQL` `MongoDB` `gRPC` `GraphQL`  
+`Kafka` `Azure` `Docker` `Kubernetes` `CI/CD` `DDD` `CQRS`
+
+---
+
+## 🌍 Let's Connect
+📫 [rashad.naghiyev@gmail.com](mailto:rashad.naghiyev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rashad-naghiyev/)  
+💻 [GitHub](https://github.com/Kreeby)
