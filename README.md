@@ -30,5 +30,5 @@ I help teams design, build, and scale enterprise software systems across fintech
 ## 🌍 Let's Connect
 📫 [rashad.naghiyev@gmail.com](mailto:rashad.naghiyev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rashad-naghiyev/)  
-🔗 [Website](https://rashad-dev.netlify.app/) 
-💻 [GitHub](https://github.com/Kreeby)
+🔗 [Website](https://rashad-dev.netlify.app/)  
+💻 [GitHub](https://github.com/Kreeby)  
